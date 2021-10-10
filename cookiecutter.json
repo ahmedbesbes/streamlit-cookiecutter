@@ -1,7 +1,7 @@
 {
   "project_name": "my streamlit app",
   "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-  "author_name": "Your name (or your organization/company/team)",
+  "author_name": "Ahmed BESBES",
   "description": "A short description of the project.",
   "open_source_license": ["MIT", "BSD-3-Clause", "No license file"],
   "s3_bucket": "[OPTIONAL] your-bucket-for-syncing-data (do not include 's3://')",
